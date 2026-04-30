@@ -1,0 +1,5 @@
+# Expense Tracker Dependencies
+# Python 3.7+
+
+# No external dependencies required
+# Uses only standard library: tkinter, json, os, datetime, unittest
